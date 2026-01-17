@@ -1,0 +1,1 @@
+ The application is a native Android app that works completely offline and supports two roles. Admin users can store and manage GLB 3D model files locally, and regular users can access and view these models through an external 3D viewer
