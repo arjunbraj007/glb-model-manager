@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--
+        Define paths that FileProvider can share
+        This allows us to share files from internal storage with other apps
+    -->
+    <files-path
+        name="glb_models"
+        path="glb_models/"/>
+</paths>
